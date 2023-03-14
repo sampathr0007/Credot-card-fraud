@@ -1,4 +1,4 @@
-# Credot-card-fraud
+# Credit-card-fraud
 ML project for credit card fraud detection
 The Credit Card Fraud Detection project is used to identify whether a new transaction is fraudulent or not  by  modeling past credit card transactions with the knowledge of the ones that turned out to be fraud. We will use various predictive models to see how accurate they are in detecting whether a transaction is a normal payment or a fraud.  
 Classification techniques are the promising solutions to detect the fraud and non-fraud transactions. Unfortunately, in a certain condition, classification techniques do not perform well when it comes to huge numbers of differences in data distribution. 
